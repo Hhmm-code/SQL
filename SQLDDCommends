@@ -1,0 +1,24 @@
+Introduction to sql
+
+	• Sql statements types :-
+		a. DML - Data Manipulation Language
+			i. SELECT
+			ii. INSERT
+			iii. UPDATE
+			iv. DELETE
+			v. MERGE
+		b. DDL - Data Definition Language
+			i. CREATE
+			ii. ALTER
+			iii. DROP
+			iv. RENAME
+			v. TRUNCTE
+			vi. COMMENT
+		c. DCL - Data Control language
+			i. GRANT
+			ii. REVOKE
+		d. Transaction Control language
+			i. COMMIT
+			ii. ROLLBACK
+			iii. SAVEPOINT
+			
